@@ -1,4 +1,4 @@
 # RockPaperScissors-Game
 # ..
 
-# changing files from git
+# changing files from github
